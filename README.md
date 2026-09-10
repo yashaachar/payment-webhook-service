@@ -8,6 +8,8 @@ Built to demonstrate third-party/enterprise webhook integration patterns:
 signature verification, replay protection, and idempotent event processing
 backed by the database rather than in-memory state.
 
+![Dashboard showing live payment ledger with paid and failed states](screenshots/dashboard.png)
+
 ## Architecture
 
 ```
